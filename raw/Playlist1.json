@@ -1,0 +1,1638 @@
+{
+  "playlists": [
+    {
+      "name": "🌚🌚🌚",
+      "lastModifiedDate": "2023-04-19",
+      "items": [
+        {
+          "track": {
+            "trackName": "Careless Whisper",
+            "artistName": "George Michael",
+            "albumName": "Ladies And Gentlemen... The Best Of George Michael",
+            "trackUri": "spotify:track:4jDmJ51x1o9NZB5Nxxc7gY"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2023-04-19"
+        },
+        {
+          "track": {
+            "trackName": "Let's Get It On",
+            "artistName": "Marvin Gaye",
+            "albumName": "Let's Get It On",
+            "trackUri": "spotify:track:39l1UORIhuHvUWfxG53tRZ"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2023-04-19"
+        },
+        {
+          "track": {
+            "trackName": "Love Is a Bitch",
+            "artistName": "Two Feet",
+            "albumName": "Love Is a Bitch",
+            "trackUri": "spotify:track:6MiVIH3fQlmz44jGx2DXn4"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2023-04-19"
+        },
+        {
+          "track": {
+            "trackName": "BBY",
+            "artistName": "Two Feet",
+            "albumName": "BBY",
+            "trackUri": "spotify:track:5AgxZKgNfB6wqnNg3puk3X"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2023-04-19"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Minha playlist nº 8",
+      "lastModifiedDate": "2022-10-12",
+      "items": [
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Chillhop Playlist",
+      "lastModifiedDate": "2020-12-04",
+      "items": [
+        {
+          "track": {
+            "trackName": "Daylight",
+            "artistName": "Aiguille",
+            "albumName": "Day and Night",
+            "trackUri": "spotify:track:4KzOCnL6LJhZHqobM1LrAB"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2020-12-04"
+        },
+        {
+          "track": {
+            "trackName": "Daydream",
+            "artistName": "Aiguille",
+            "albumName": "Day and Night",
+            "trackUri": "spotify:track:2GDA6F4cUq23s39FWz0mf3"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2020-12-04"
+        },
+        {
+          "track": {
+            "trackName": "Day and Night",
+            "artistName": "Aiguille",
+            "albumName": "Day and Night",
+            "trackUri": "spotify:track:55J6bv99oj1iPOTRUx73sM"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2020-12-04"
+        },
+        {
+          "track": {
+            "trackName": "Nightfall",
+            "artistName": "Aiguille",
+            "albumName": "Day and Night",
+            "trackUri": "spotify:track:1ivChVT3YVokAHJMBxObd1"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2020-12-04"
+        },
+        {
+          "track": {
+            "trackName": "Nightglow",
+            "artistName": "Aiguille",
+            "albumName": "Day and Night",
+            "trackUri": "spotify:track:366Opr5cuiloWHzaQp0KDd"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2020-12-04"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "RAP NACIONAL",
+      "lastModifiedDate": "2020-07-22",
+      "items": [
+        {
+          "track": {
+            "trackName": "Expurgo",
+            "artistName": "Diomedes Chinaski",
+            "albumName": "Expurgo",
+            "trackUri": "spotify:track:5OZ0ONYoYbUlYWiFFi62vH"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-08-14"
+        },
+        {
+          "track": {
+            "trackName": "Bicho de 7 Cabeças / A Culpa É das Igrejas",
+            "artistName": "Froid",
+            "albumName": "Bicho de 7 Cabeças / A Culpa É das Igrejas",
+            "trackUri": "spotify:track:2Lv29hDvxBCGgWA1skbtzE"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-08-14"
+        },
+        {
+          "track": {
+            "trackName": "Queima Minha Pele",
+            "artistName": "Baco Exu do Blues",
+            "albumName": "Bluesman",
+            "trackUri": "spotify:track:6cySaD4BYMOFlXI3cNS1tL"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-08-14"
+        },
+        {
+          "track": {
+            "trackName": "Bosque das Ilusões",
+            "artistName": "Haikaiss",
+            "albumName": "Fotografia de um Instante, Vol. 1 & 2",
+            "trackUri": "spotify:track:56dXMYF5JyeGneS7085oAE"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-08-14"
+        },
+        {
+          "track": {
+            "trackName": "Anos Luz",
+            "artistName": "Matuê",
+            "albumName": "Anos Luz",
+            "trackUri": "spotify:track:6J8UJNZrIwvcpsWHvSkwXn"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-08-14"
+        },
+        {
+          "track": {
+            "trackName": "Vida Loka, Pt. 1",
+            "artistName": "Racionais MC's",
+            "albumName": "Nada Como um Dia Após o Outro Dia, Vol. 1 & 2",
+            "trackUri": "spotify:track:6m8AgjfI28ER6odzMxmHtR"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-08-14"
+        },
+        {
+          "track": {
+            "trackName": "Amor de Gelo",
+            "artistName": "San Joe",
+            "albumName": "Amor de Gelo",
+            "trackUri": "spotify:track:4OgX9LMSQS6bplwXLY18LL"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-08-14"
+        },
+        {
+          "track": {
+            "trackName": "Medellin Gang",
+            "artistName": "Cacife Clandestino",
+            "albumName": "Medellin Gang",
+            "trackUri": "spotify:track:6gBncT7lvGXxfqsS6kr8zt"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-08-14"
+        },
+        {
+          "track": {
+            "trackName": "Interior (feat. Rapadura)",
+            "artistName": "Rashid",
+            "albumName": "Interior (feat. Rapadura)",
+            "trackUri": "spotify:track:4CHH0nG7OthqoT6U07s1B8"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-08-14"
+        },
+        {
+          "track": {
+            "trackName": "Pharaoh",
+            "artistName": "MC Igu",
+            "albumName": "Aurélio 2",
+            "trackUri": "spotify:track:3ernHNOSZWZzJJgterD2Jp"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-08-14"
+        },
+        {
+          "track": {
+            "trackName": "Deixe Me Ir - Acústico",
+            "artistName": "1Kilo",
+            "albumName": "Deixe Me Ir",
+            "trackUri": "spotify:track:2srL4DYBekshpbprS6H0mO"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-08-14"
+        },
+        {
+          "track": {
+            "trackName": "Flack Jack",
+            "artistName": "Recayd Mob",
+            "albumName": "Calzone Tapes, Vol. 2",
+            "trackUri": "spotify:track:6EwmVaen6EGQeORzTvLMnR"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-08-14"
+        },
+        {
+          "track": {
+            "trackName": "Linda, Louca e Mimada - Acústico",
+            "artistName": "Oriente",
+            "albumName": "Oriente",
+            "trackUri": "spotify:track:1dx97DCWerlbM2Iw6wc9vf"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-08-14"
+        },
+        {
+          "track": {
+            "trackName": "Nova Terra",
+            "artistName": "Sagaz",
+            "albumName": "2100",
+            "trackUri": "spotify:track:6r7jEXCZ7aJYk267IYqKFa"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-08-14"
+        },
+        {
+          "track": {
+            "trackName": "Escama",
+            "artistName": "Luiz Lins",
+            "albumName": "Escama",
+            "trackUri": "spotify:track:0PFRmdAqK4jnlmYGdd1FHm"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-08-14"
+        },
+        {
+          "track": {
+            "trackName": "Pseudosocial",
+            "artistName": "Froid",
+            "albumName": "Pseudosocial",
+            "trackUri": "spotify:track:1YK3f7UWuW7uVTBJlsNrPC"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-10-05"
+        },
+        {
+          "track": {
+            "trackName": "Te Amo Disgraça",
+            "artistName": "Baco Exu do Blues",
+            "albumName": "Esú",
+            "trackUri": "spotify:track:5B4611SCn4puXahrf7rqkj"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-10-05"
+        },
+        {
+          "track": {
+            "trackName": "Marginais Boombap 2",
+            "artistName": "Marginal Supply",
+            "albumName": "Marginais Boombap 2",
+            "trackUri": "spotify:track:5VDcqDsZKMqvabDW5wLuxf"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-11-08"
+        },
+        {
+          "track": {
+            "trackName": "Poesia Acústica #3: Capricorniana",
+            "artistName": "Pineapple StormTv",
+            "albumName": "Poesia Acústica #3: Capricorniana",
+            "trackUri": "spotify:track:1YUWhlQjFv7MQpcbb77zTL"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-11-13"
+        },
+        {
+          "track": {
+            "trackName": "Lamentável, Pt. III",
+            "artistName": "Froid",
+            "albumName": "O Pior Disco do Ano",
+            "trackUri": "spotify:track:46h2Z0b21xC1gzluNeCiVG"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-11-13"
+        },
+        {
+          "track": {
+            "trackName": "Favela Vive 2",
+            "artistName": "ADL",
+            "albumName": "Favela Vive 2",
+            "trackUri": "spotify:track:1bjb1rHvoJOFAOGpjuvfhE"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-11-13"
+        },
+        {
+          "track": {
+            "trackName": "Poesia Acústica #4: Todo Mundo Odeia Acústico",
+            "artistName": "Pineapple StormTv",
+            "albumName": "Poesia Acústica #4: Todo Mundo Odeia Acústico",
+            "trackUri": "spotify:track:4nwQ1SG9CsAl4XoKuScF0r"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-11-13"
+        },
+        {
+          "track": {
+            "trackName": "Me Desculpa Jay Z",
+            "artistName": "Baco Exu do Blues",
+            "albumName": "Bluesman",
+            "trackUri": "spotify:track:2BF6mQdYAkLmeRQmX7YyPy"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-11-13"
+        },
+        {
+          "track": {
+            "trackName": "Favela Vive 3",
+            "artistName": "ADL",
+            "albumName": "Favela Vive 3",
+            "trackUri": "spotify:track:3cvKOM4MNrGaXmeTw3XdNN"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-11-13"
+        },
+        {
+          "track": {
+            "trackName": "Favela Vive",
+            "artistName": "ADL",
+            "albumName": "Favela Vive",
+            "trackUri": "spotify:track:3rZ3zQjk31vM5Gq0V6PmZm"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2020-02-21"
+        },
+        {
+          "track": {
+            "trackName": "Plaqtudum",
+            "artistName": "Recayd Mob",
+            "albumName": "Plaqtudum",
+            "trackUri": "spotify:track:6TLHo63Z3wqHkW6adVeEwZ"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2020-03-04"
+        },
+        {
+          "track": {
+            "trackName": "Bluesman",
+            "artistName": "Baco Exu do Blues",
+            "albumName": "Bluesman",
+            "trackUri": "spotify:track:3hHMr9tAmcqGqUjX8awAzL"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2020-03-04"
+        },
+        {
+          "track": {
+            "trackName": "Vida Loka, Pt. 2",
+            "artistName": "Racionais MC's",
+            "albumName": "Nada Como um Dia Após o Outro Dia, Vol. 1 & 2",
+            "trackUri": "spotify:track:4nTrxp4aH0g2yLVPkFmljF"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2020-07-22"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "SoundHound",
+      "lastModifiedDate": "2018-11-21",
+      "items": [
+        {
+          "track": {
+            "trackName": "Marabout",
+            "artistName": "Juniore",
+            "albumName": "Juniore",
+            "trackUri": "spotify:track:0QFSKd2VyOgm7itxr2dQGr"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-11-21"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Racionais MC's – Cores & Valores",
+      "lastModifiedDate": "2018-12-21",
+      "items": [
+        {
+          "track": {
+            "trackName": "Cores & Valores",
+            "artistName": "Racionais MC's",
+            "albumName": "Cores & Valores",
+            "trackUri": "spotify:track:6aJkwHHjSLbSe9T07ulltq"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Somos o Que Somos",
+            "artistName": "Racionais MC's",
+            "albumName": "Cores & Valores",
+            "trackUri": "spotify:track:2u9TNvu3s7bvuzluO18B0P"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Cores & Valores (Preto e Amarelo)",
+            "artistName": "Racionais MC's",
+            "albumName": "Cores & Valores",
+            "trackUri": "spotify:track:63P6k2OXCGBDrIoMxIk316"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Trilha",
+            "artistName": "Racionais MC's",
+            "albumName": "Cores & Valores",
+            "trackUri": "spotify:track:7h4jJRBM5nkCZ3tLAJQZz3"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Eu Te Disse",
+            "artistName": "Racionais MC's",
+            "albumName": "Cores & Valores",
+            "trackUri": "spotify:track:6l7uyNOOHVO7PZuZRPIHm2"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Preto Zica",
+            "artistName": "Racionais MC's",
+            "albumName": "Cores & Valores",
+            "trackUri": "spotify:track:1gD4sDZi8BaHunIj4zNF8B"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Cores & Valores (Finado",
+            "artistName": "Racionais MC's",
+            "albumName": "Cores & Valores",
+            "trackUri": "spotify:track:6ZNcr9DyYl3ySLoHPm9cHt"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Eu Compro",
+            "artistName": "Racionais MC's",
+            "albumName": "Cores & Valores",
+            "trackUri": "spotify:track:5VW3BRwYhsqfZYRi90UzfR"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "A Escolha Que Eu Fiz",
+            "artistName": "Racionais MC's",
+            "albumName": "Cores & Valores",
+            "trackUri": "spotify:track:5Z7IyT472Inrrb220DzJJF"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "A Praça",
+            "artistName": "Racionais MC's",
+            "albumName": "Cores & Valores",
+            "trackUri": "spotify:track:6bT78soTSBQhBAbcKCj55W"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "O Mau e o Bem",
+            "artistName": "Racionais MC's",
+            "albumName": "Cores & Valores",
+            "trackUri": "spotify:track:4xo4XiELxxKdvCOR3p00EX"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Você Me Deve",
+            "artistName": "Racionais MC's",
+            "albumName": "Cores & Valores",
+            "trackUri": "spotify:track:5G4rIw7lHwmxQUADg2lnWo"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Quanto Vale o Show",
+            "artistName": "Racionais MC's",
+            "albumName": "Cores & Valores",
+            "trackUri": "spotify:track:57DmIl4WnkUplQrUWZqonY"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Coração Barrabaz",
+            "artistName": "Racionais MC's",
+            "albumName": "Cores & Valores",
+            "trackUri": "spotify:track:1bLXAPqRamk6BK8mkzvgwd"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Eu Te Proponho",
+            "artistName": "Racionais MC's",
+            "albumName": "Cores & Valores",
+            "trackUri": "spotify:track:1NLmmwS2qMv8YhIRQrCmZ7"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Mente do Vilão",
+            "artistName": "Racionais MC's",
+            "albumName": "Racionais Mc's",
+            "trackUri": "spotify:track:1qx0ns6ZErHD6pZgRLw2zT"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Na Fé Irmão",
+            "artistName": "Racionais MC's",
+            "albumName": "Racionais Mc's",
+            "trackUri": "spotify:track:1BqZC8mOHog1g0m5nFQ8LT"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Hey Boy",
+            "artistName": "Racionais MC's",
+            "albumName": "Racionais Mc's",
+            "trackUri": "spotify:track:5UB7T65eDqeuyU8FooCFBu"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Pânico na Zona Sul",
+            "artistName": "Racionais MC's",
+            "albumName": "Racionais Mc's",
+            "trackUri": "spotify:track:4houGhRUW5vG1iEWAPKL5H"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Periferia É Periferia",
+            "artistName": "Racionais MC's",
+            "albumName": "Racionais Mc's",
+            "trackUri": "spotify:track:6b08GFfrXKzdHUv5Lzntr7"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Fim de Semana no Parque",
+            "artistName": "Racionais MC's",
+            "albumName": "Racionais Mc's",
+            "trackUri": "spotify:track:6XujYsKWukkORiO5gdLVoN"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Fórmula Mágica da Paz - Ao Vivo",
+            "artistName": "Racionais MC's",
+            "albumName": "Racionais Mc's",
+            "trackUri": "spotify:track:0VEaNFipTV9PyFJ2uFbPRq"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Rapaz Comum - Ao Vivo",
+            "artistName": "Racionais MC's",
+            "albumName": "Racionais Mc's",
+            "trackUri": "spotify:track:4VuRysA2WTLwU1GmiYeEFB"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "A Vítima",
+            "artistName": "Racionais MC's",
+            "albumName": "Racionais Mc's",
+            "trackUri": "spotify:track:3nn2dmSaqJU3XyEWgBxxvR"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Tô Ouvindo Alguém Me Chamar",
+            "artistName": "Racionais MC's",
+            "albumName": "Racionais Mc's",
+            "trackUri": "spotify:track:6BovtbtrU96mRZIeLKxTYP"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Mano na Porta do Bar",
+            "artistName": "Racionais MC's",
+            "albumName": "Racionais Mc's",
+            "trackUri": "spotify:track:0S8Zs03aqQ9K0p6IWDgsNu"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Crime Vai e Vem",
+            "artistName": "Racionais MC's",
+            "albumName": "Racionais Mc's",
+            "trackUri": "spotify:track:3jWBdTq8ur6SUcgmSwUVS5"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Vida Loka, Pt. 1",
+            "artistName": "Racionais MC's",
+            "albumName": "Racionais Mc's",
+            "trackUri": "spotify:track:78DLLkiWDIKg4X49G2ZEY6"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Capítulo 4 Versículo 3",
+            "artistName": "Racionais MC's",
+            "albumName": "Racionais Mc's",
+            "trackUri": "spotify:track:70JPdj7X8KmyMtUEMGDNuK"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Sou + Você",
+            "artistName": "Racionais MC's",
+            "albumName": "Nada Como um Dia Após o Outro Dia, Vol. 1 & 2",
+            "trackUri": "spotify:track:5G1T3Cj4vP7uiGMUb278ut"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Vivão e Vivendo",
+            "artistName": "Racionais MC's",
+            "albumName": "Nada Como um Dia Após o Outro Dia, Vol. 1 & 2",
+            "trackUri": "spotify:track:2igfCmo0TuciHyKMB8zWrr"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Vida Loka (Intro)",
+            "artistName": "Racionais MC's",
+            "albumName": "Nada Como um Dia Após o Outro Dia, Vol. 1 & 2",
+            "trackUri": "spotify:track:7ATfKy3NYMRfK5JZvFQJYX"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Vida Loka, Pt. 1",
+            "artistName": "Racionais MC's",
+            "albumName": "Nada Como um Dia Após o Outro Dia, Vol. 1 & 2",
+            "trackUri": "spotify:track:6m8AgjfI28ER6odzMxmHtR"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Negro Drama",
+            "artistName": "Racionais MC's",
+            "albumName": "Nada Como um Dia Após o Outro Dia, Vol. 1 & 2",
+            "trackUri": "spotify:track:3ytXzEJFeVydFfmUhHvti8"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "A Vítima",
+            "artistName": "Racionais MC's",
+            "albumName": "Nada Como um Dia Após o Outro Dia, Vol. 1 & 2",
+            "trackUri": "spotify:track:2ki0ZW9m5HIAdALRldfXM1"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Na Fé Firmão",
+            "artistName": "Racionais MC's",
+            "albumName": "Nada Como um Dia Após o Outro Dia, Vol. 1 & 2",
+            "trackUri": "spotify:track:0TYKO6toBeKLbyD18AVTNU"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "12 de Outubro",
+            "artistName": "Racionais MC's",
+            "albumName": "Nada Como um Dia Após o Outro Dia, Vol. 1 & 2",
+            "trackUri": "spotify:track:4Nqj9K6kxvIr4PnvtI1RRA"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Eu Sou 157",
+            "artistName": "Racionais MC's",
+            "albumName": "Nada Como um Dia Após o Outro Dia, Vol. 1 & 2",
+            "trackUri": "spotify:track:33UECsx4DcDRampb2ah316"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "A Vida É Desafio",
+            "artistName": "Racionais MC's",
+            "albumName": "Nada Como um Dia Após o Outro Dia, Vol. 1 & 2",
+            "trackUri": "spotify:track:4mZu6NuOntvYZqCZPrxTqT"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "1 por Amor, 2 por Dinheiro",
+            "artistName": "Racionais MC's",
+            "albumName": "Nada Como um Dia Após o Outro Dia, Vol. 1 & 2",
+            "trackUri": "spotify:track:0VQ1mXWqoXynNmc0wdligL"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "De Volta À Cena",
+            "artistName": "Racionais MC's",
+            "albumName": "Nada Como um Dia Após o Outro Dia, Vol. 1 & 2",
+            "trackUri": "spotify:track:16oVqtzrcrdzQvtIRnA2Wx"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Otus 500",
+            "artistName": "Racionais MC's",
+            "albumName": "Nada Como um Dia Após o Outro Dia, Vol. 1 & 2",
+            "trackUri": "spotify:track:3tuMjoF61Uo54BPVzV4e0d"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Crime Vai e Vem",
+            "artistName": "Racionais MC's",
+            "albumName": "Nada Como um Dia Após o Outro Dia, Vol. 1 & 2",
+            "trackUri": "spotify:track:29JxbOQf5YFFpqWgNauToo"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Jesus Chorou",
+            "artistName": "Racionais MC's",
+            "albumName": "Nada Como um Dia Após o Outro Dia, Vol. 1 & 2",
+            "trackUri": "spotify:track:5wZUvwWGKaZ6NG8yckZcTM"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Fone (Intro)",
+            "artistName": "Racionais MC's",
+            "albumName": "Nada Como um Dia Após o Outro Dia, Vol. 1 & 2",
+            "trackUri": "spotify:track:1QEit92Juvj8i9QrM60gpn"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Estilo Cachorro",
+            "artistName": "Racionais MC's",
+            "albumName": "Nada Como um Dia Após o Outro Dia, Vol. 1 & 2",
+            "trackUri": "spotify:track:2tR8iLdCeYhVcyPZvN6T7X"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Vida Loka, Pt. 2",
+            "artistName": "Racionais MC's",
+            "albumName": "Nada Como um Dia Após o Outro Dia, Vol. 1 & 2",
+            "trackUri": "spotify:track:4nTrxp4aH0g2yLVPkFmljF"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Expresso da Meia-Noite",
+            "artistName": "Racionais MC's",
+            "albumName": "Nada Como um Dia Após o Outro Dia, Vol. 1 & 2",
+            "trackUri": "spotify:track:6CI6QHlg9ejvkWOTOni5oX"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Trutas e Quebradas",
+            "artistName": "Racionais MC's",
+            "albumName": "Nada Como um Dia Após o Outro Dia, Vol. 1 & 2",
+            "trackUri": "spotify:track:6xmtjVIcjMRdgdB1sywkjb"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Da Ponte pra Cá",
+            "artistName": "Racionais MC's",
+            "albumName": "Nada Como um Dia Após o Outro Dia, Vol. 1 & 2",
+            "trackUri": "spotify:track:77ZXEJcwC7r4gfodNwERJz"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-08-27"
+        },
+        {
+          "track": {
+            "trackName": "Zombie",
+            "artistName": "The Cranberries",
+            "albumName": "No Need To Argue (The Complete Sessions 1994-1995)",
+            "trackUri": "spotify:track:6xy6jNeNTYwjnKTDzMyHw2"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-12-21"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "My Shazam Tracks",
+      "lastModifiedDate": "2020-12-28",
+      "items": [
+        {
+          "track": {
+            "trackName": "Way down We Go",
+            "artistName": "KALEO",
+            "albumName": "A/B",
+            "trackUri": "spotify:track:0y1QJc3SJVPKJ1OvFmFqe6"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2020-12-28"
+        },
+        {
+          "track": {
+            "trackName": "Waves",
+            "artistName": "Joakim Karud",
+            "albumName": "Waves",
+            "trackUri": "spotify:track:3GcsuWWgCfgqkUEqK71j3R"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-01-10"
+        },
+        {
+          "track": {
+            "trackName": "Every Breath You Take",
+            "artistName": "The Police",
+            "albumName": "Stranger Things (Soundtrack from the Netflix Original Series)",
+            "trackUri": "spotify:track:0SNGe4xksgp7CGnY5kMXOJ"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-01-13"
+        },
+        {
+          "track": {
+            "trackName": "Gordelícia - Ao Vivo | Acústico",
+            "artistName": "Raimundos",
+            "albumName": "Acústico - Ao Vivo",
+            "trackUri": "spotify:track:77mnypCdtuUwwQszzh2CKi"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-01-19"
+        },
+        {
+          "track": {
+            "trackName": "Palhas do Coqueiro - Ao Vivo | Acústico",
+            "artistName": "Raimundos",
+            "albumName": "Acústico - Ao Vivo",
+            "trackUri": "spotify:track:5qOolZ12Z4kucBfKlUJeYp"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-01-19"
+        },
+        {
+          "track": {
+            "trackName": "O Pão da Minha Prima / Monkey Man - Ao Vivo | Acústico",
+            "artistName": "Raimundos",
+            "albumName": "Acústico - Ao Vivo",
+            "trackUri": "spotify:track:7ikJw7nFIbtKlRx97TZ2aB"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-01-19"
+        },
+        {
+          "track": {
+            "trackName": "Papeau Nuck Doe - Ao Vivo | Acústico",
+            "artistName": "Raimundos",
+            "albumName": "Acústico - Ao Vivo",
+            "trackUri": "spotify:track:2fB4EWHpiADO2Bv2Dzenmi"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-01-19"
+        },
+        {
+          "track": {
+            "trackName": "Rapante - Ao Vivo | Acústico",
+            "artistName": "Raimundos",
+            "albumName": "Acústico - Ao Vivo",
+            "trackUri": "spotify:track:445h1KsQ3qBBqJjOBKKkZ3"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-01-19"
+        },
+        {
+          "track": {
+            "trackName": "Sereia da Pedreira - Ao Vivo | Acústico",
+            "artistName": "Raimundos",
+            "albumName": "Acústico - Ao Vivo",
+            "trackUri": "spotify:track:5604H05rNS7jguXPJx4vgm"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-01-19"
+        },
+        {
+          "track": {
+            "trackName": "El Mariachi - Ao Vivo | Acústico",
+            "artistName": "Raimundos",
+            "albumName": "Acústico - Ao Vivo",
+            "trackUri": "spotify:track:0PrI6WCqNOZEAJDWH2IT7z"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-01-19"
+        },
+        {
+          "track": {
+            "trackName": "Nega Jurema - Ao Vivo | Acústico",
+            "artistName": "Raimundos",
+            "albumName": "Acústico - Ao Vivo",
+            "trackUri": "spotify:track:2j2u2a3oGURxcVZpMHxTLy"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-01-19"
+        },
+        {
+          "track": {
+            "trackName": "I Saw You Saying (That You Say That You Saw) - Ao Vivo | Acústico",
+            "artistName": "Raimundos",
+            "albumName": "Acústico - Ao Vivo",
+            "trackUri": "spotify:track:6B04rvHJ0MzJ9BljbqzKKB"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-01-19"
+        },
+        {
+          "track": {
+            "trackName": "Bê a Bá - Ao Vivo | Acústico",
+            "artistName": "Raimundos",
+            "albumName": "Acústico - Ao Vivo",
+            "trackUri": "spotify:track:3yz3yceLHbR6jlyvfxrEBn"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-01-19"
+        },
+        {
+          "track": {
+            "trackName": "Mulher de Fases - Ao Vivo | Acústico",
+            "artistName": "Raimundos",
+            "albumName": "Acústico - Ao Vivo",
+            "trackUri": "spotify:track:2OBzAYQUWGuTgY90TRnXMf"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-01-19"
+        },
+        {
+          "track": {
+            "trackName": "Mas Vó... - Ao Vivo | Acústico",
+            "artistName": "Raimundos",
+            "albumName": "Acústico - Ao Vivo",
+            "trackUri": "spotify:track:5ok9IPHLTPbhMjouDHYMrk"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-01-19"
+        },
+        {
+          "track": {
+            "trackName": "Dubmundos - Ao Vivo | Acústico",
+            "artistName": "Raimundos",
+            "albumName": "Acústico - Ao Vivo",
+            "trackUri": "spotify:track:2rg5wrJAvnqqrYs501kWmw"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-01-19"
+        },
+        {
+          "track": {
+            "trackName": "Bonita - Ao Vivo | Acústico",
+            "artistName": "Raimundos",
+            "albumName": "Acústico - Ao Vivo",
+            "trackUri": "spotify:track:2ibTzucqBTofzEOp2sALeG"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-01-19"
+        },
+        {
+          "track": {
+            "trackName": "Opa! Peraí, Caceta - Ao Vivo | Acústico",
+            "artistName": "Raimundos",
+            "albumName": "Acústico - Ao Vivo",
+            "trackUri": "spotify:track:1xo3yqHfZn7UgEUz7WxD2Z"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-01-19"
+        },
+        {
+          "track": {
+            "trackName": "Baculejo - Ao Vivo | Acústico",
+            "artistName": "Raimundos",
+            "albumName": "Acústico - Ao Vivo",
+            "trackUri": "spotify:track:4DZnBxPsv1IDpBTBQgj5SF"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-01-19"
+        },
+        {
+          "track": {
+            "trackName": "A Mais Pedida - Ao Vivo | Acústico",
+            "artistName": "Raimundos",
+            "albumName": "Acústico - Ao Vivo",
+            "trackUri": "spotify:track:6kCGzPmsyJkzs0UnbXjply"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-01-19"
+        },
+        {
+          "track": {
+            "trackName": "Reggae do Manero - Ao Vivo | Acústico",
+            "artistName": "Raimundos",
+            "albumName": "Acústico - Ao Vivo",
+            "trackUri": "spotify:track:0VaMFkBz3QsRAuaek4jYR5"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-01-19"
+        },
+        {
+          "track": {
+            "trackName": "Selim - Ao Vivo | Acústico",
+            "artistName": "Raimundos",
+            "albumName": "Acústico - Ao Vivo",
+            "trackUri": "spotify:track:2BBUgaDkXFmQS7xMEr9r5w"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-01-19"
+        },
+        {
+          "track": {
+            "trackName": "Cintura Fina - Ao Vivo | Acústico",
+            "artistName": "Raimundos",
+            "albumName": "Acústico - Ao Vivo",
+            "trackUri": "spotify:track:7Lu0pqkuaJUzKAbLC5u8O9"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-01-19"
+        },
+        {
+          "track": {
+            "trackName": "Cera Quente - Ao Vivo | Acústico",
+            "artistName": "Raimundos",
+            "albumName": "Acústico - Ao Vivo",
+            "trackUri": "spotify:track:27uThXqjgsywrvsidYXuqc"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-01-19"
+        },
+        {
+          "track": {
+            "trackName": "Deixa Eu Falar - Ao Vivo | Acústico",
+            "artistName": "Raimundos",
+            "albumName": "Acústico - Ao Vivo",
+            "trackUri": "spotify:track:6ZdveWIv3in3Us8bKiMW9Z"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-01-19"
+        },
+        {
+          "track": {
+            "trackName": "Lugar Ao Sol - Ao Vivo | Acústico",
+            "artistName": "Raimundos",
+            "albumName": "Acústico - Ao Vivo",
+            "trackUri": "spotify:track:4G7J6r92RH3aRlTEJQER8A"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-01-19"
+        },
+        {
+          "track": {
+            "trackName": "Me Lambe - Ao Vivo | Acústico",
+            "artistName": "Raimundos",
+            "albumName": "Acústico - Ao Vivo",
+            "trackUri": "spotify:track:5YTUCrGykjWXPwhqE2w5Fp"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-01-19"
+        },
+        {
+          "track": {
+            "trackName": "Puteiro Em João Pessoa - Ao Vivo | Acústico",
+            "artistName": "Raimundos",
+            "albumName": "Acústico - Ao Vivo",
+            "trackUri": "spotify:track:0Om3atUNbAqVJexASXyKqH"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-01-19"
+        },
+        {
+          "track": {
+            "trackName": "Esporrei Na Manivela - Ao Vivo | Acústico",
+            "artistName": "Raimundos",
+            "albumName": "Acústico - Ao Vivo",
+            "trackUri": "spotify:track:33cdBhLg81DvNrDDMFiOx4"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-01-19"
+        },
+        {
+          "track": {
+            "trackName": "Eu Quero Ver o Oco - Ao Vivo | Acústico",
+            "artistName": "Raimundos",
+            "albumName": "Acústico - Ao Vivo",
+            "trackUri": "spotify:track:2QjR8bn0K5KMycdWiHRX3U"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-01-19"
+        },
+        {
+          "track": {
+            "trackName": "CLYDE (I Hope At Least One Of My Ex-Girlfriends Hears This)",
+            "artistName": "$uicideboy$",
+            "albumName": "I No Longer Fear The Razor Guarding My Heel",
+            "trackUri": "spotify:track:3zH981CIycqJf9vSyullZv"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2020-03-09"
+        },
+        {
+          "track": {
+            "trackName": "CLYDE (I Hope At Least One Of My Ex-Girlfriends Hears This)",
+            "artistName": "$uicideboy$",
+            "albumName": "I No Longer Fear The Razor Guarding My Heel",
+            "trackUri": "spotify:track:3zH981CIycqJf9vSyullZv"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2020-03-09"
+        },
+        {
+          "track": {
+            "trackName": "CLYDE (I Hope At Least One Of My Ex-Girlfriends Hears This)",
+            "artistName": "$uicideboy$",
+            "albumName": "I No Longer Fear The Razor Guarding My Heel",
+            "trackUri": "spotify:track:3zH981CIycqJf9vSyullZv"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2020-03-09"
+        },
+        {
+          "track": {
+            "trackName": "Star Shopping",
+            "artistName": "Lil Peep",
+            "albumName": "Star Shopping",
+            "trackUri": "spotify:track:30bqVoKjX479ab90a8Pafp"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2020-03-09"
+        },
+        {
+          "track": {
+            "trackName": "PaidProgramming2",
+            "artistName": "BONES",
+            "albumName": "paidprogramming2",
+            "trackUri": "spotify:track:6heHyYyh9HQwcPoZQ36EWf"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2020-03-09"
+        },
+        {
+          "track": {
+            "trackName": "Bom Motivo",
+            "artistName": "Toco",
+            "albumName": "Outro Lugar",
+            "trackUri": "spotify:track:0XdhwShrfjvtaaU1QIhpPe"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2020-03-09"
+        },
+        {
+          "track": {
+            "trackName": "Joro",
+            "artistName": "Wizkid",
+            "albumName": "Joro",
+            "trackUri": "spotify:track:3Yt1ovsh3v3VEzRuhI1TL5"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2020-12-01"
+        },
+        {
+          "track": {
+            "trackName": "Cradles",
+            "artistName": "Sub Urban",
+            "albumName": "Cradles",
+            "trackUri": "spotify:track:1y4jsQt7MjnZhiD1L6qFBC"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2020-12-02"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Faixas do Shazam",
+      "lastModifiedDate": "2017-07-10",
+      "items": [
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Curtidas na Rádio",
+      "lastModifiedDate": "2019-10-04",
+      "items": [
+        {
+          "track": {
+            "trackName": "El Aguante",
+            "artistName": "Calle 13",
+            "albumName": "MultiViral",
+            "trackUri": "spotify:track:7AIVTgrRcdUW8QBsqNQ33z"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-10-04"
+        },
+        {
+          "track": {
+            "trackName": "Mannish Boy",
+            "artistName": "Muddy Waters",
+            "albumName": "King Of The Electric Blues",
+            "trackUri": "spotify:track:58PSYdY0GFg0LFb2PxYk4T"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-09-28"
+        },
+        {
+          "track": {
+            "trackName": "Abraço",
+            "artistName": "Medulla",
+            "albumName": "Deus e o Átomo",
+            "trackUri": "spotify:track:6OBXfbbmE0enkSn1wmbqlX"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-08-19"
+        },
+        {
+          "track": {
+            "trackName": "Overdose",
+            "artistName": "grandson",
+            "albumName": "a modern tragedy vol. 1",
+            "trackUri": "spotify:track:7a1D98IVXyVBKsq40imjyg"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-07-30"
+        },
+        {
+          "track": {
+            "trackName": "Mulher de fases",
+            "artistName": "Raimundos",
+            "albumName": "So No Forevis",
+            "trackUri": "spotify:track:624ra5mDiibqvFYDK4yhmo"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-07-03"
+        },
+        {
+          "track": {
+            "trackName": "Abraço Forte",
+            "artistName": "Bhaskar",
+            "albumName": "Abraço Forte",
+            "trackUri": "spotify:track:44KwvWX3TOfKVPBW2h3NUZ"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-05-30"
+        },
+        {
+          "track": {
+            "trackName": "I Know U",
+            "artistName": "JØRD",
+            "albumName": "I Know U",
+            "trackUri": "spotify:track:2xqnw5xBP26MnG6iMK8sXg"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-05-30"
+        },
+        {
+          "track": {
+            "trackName": "[oops]",
+            "artistName": "potsu",
+            "albumName": "[oops]",
+            "trackUri": "spotify:track:53pxuVsqLU3rIADN6T2COo"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-03-04"
+        },
+        {
+          "track": {
+            "trackName": "Take Me Out",
+            "artistName": "Franz Ferdinand",
+            "albumName": "Franz Ferdinand",
+            "trackUri": "spotify:track:6ooluO7DiEhI1zmK94nRCM"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-01-24"
+        },
+        {
+          "track": {
+            "trackName": "Sweet Dreams, TN",
+            "artistName": "The Last Shadow Puppets",
+            "albumName": "Everything You've Come To Expect",
+            "trackUri": "spotify:track:3asj3OMn7BkuWOxsdkYybG"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-01-24"
+        },
+        {
+          "track": {
+            "trackName": "Baby I'm Yours",
+            "artistName": "Arctic Monkeys",
+            "albumName": "Leave Before The Lights Come On",
+            "trackUri": "spotify:track:0SzvmWfOhoxZVGrmvb56YL"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2019-01-21"
+        },
+        {
+          "track": {
+            "trackName": "Silverwood",
+            "artistName": "Bag Raiders",
+            "albumName": "Friend Inside",
+            "trackUri": "spotify:track:4DzcdqKHwOUtvzVtOuwX0s"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2018-11-13"
+        },
+        {
+          "track": {
+            "trackName": "Camila, Camila",
+            "artistName": "Nenhum De Nós",
+            "albumName": "Maxximum - Nenhum De Nós",
+            "trackUri": "spotify:track:6ya04s5mIYZchkXgqNlfhz"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2017-12-22"
+        },
+        {
+          "track": {
+            "trackName": "Uma Velha Canção Rock N'Roll",
+            "artistName": "14 Bis",
+            "albumName": "Novo Millennium",
+            "trackUri": "spotify:track:019AVQLzkQKhOzvb0ZVoQ9"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2017-12-22"
+        },
+        {
+          "track": {
+            "trackName": "Don't Look Down (feat. Usher)",
+            "artistName": "Martin Garrix",
+            "albumName": "Don't Look Down (feat. Usher)",
+            "trackUri": "spotify:track:5M9jOReAKGZ2AttVefFjTY"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2017-02-16"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    }
+  ]
+}
